@@ -5,8 +5,7 @@ Official MATLAB implementation for the manuscript:
 *Ali Bashirgonbadi, Mohamad Reza Salehi, and Hamid Soltanian-Zadeh*
 ---
 ## Overview
-While functional interactions occur across the complete pairwise space of cortical regions (Nedge = N_Node(N_Node-1)/2), diffusion MRI tractography reconstructs 
-direct white-matter pathways for only a sparse subset of pairs. This repository provides a parameter-free, edge-centric framework that bridges this topological 
+While functional interactions occur across the complete pairwise space of cortical regions (Nedge = N_Node(N_Node-1)/2), diffusion MRI tractography reconstructs direct white-matter pathways for only a sparse subset of pairs. This repository provides a parameter-free, edge-centric framework that bridges this topological 
 mismatch by projecting the human structural connectome into a **complete weighted line graph** (L(KN)).
 Every cortical region pair (i, j)—both directly connected (wij > 0) and non-directly connected (wij = 0)—is assigned a principled anatomical descriptor termed 
 **Structural Edge Context**:
