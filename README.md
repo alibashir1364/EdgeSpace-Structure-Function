@@ -18,7 +18,7 @@ two complementary dimensions of edge-level dynamics:
 
 ## System Requirements & Dependencies
 
-**MATLAB** (tested on R2021a and later)
+* **MATLAB** (tested on R2021a and later)
 ---
 ## Required Input Data Format
 
